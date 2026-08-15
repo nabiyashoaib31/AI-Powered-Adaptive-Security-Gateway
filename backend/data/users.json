@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Admin",
+        "email": "admin@test.com",
+        "password": "123456",
+        "trustScore": 100,
+        "failedAttempts": 0,
+        "requestCount": 0,
+        "rapidRequests": 0,
+        "status": "Safe",
+        "blocked": false,
+        "blockUntil": null,
+        "role": "admin"
+    }
+]

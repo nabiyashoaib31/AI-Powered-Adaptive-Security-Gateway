@@ -1,0 +1,310 @@
+[8/9/2026, 10:35:47 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100}
+[8/9/2026, 10:38:47 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/9/2026, 10:39:21 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","blocked":false}
+[8/9/2026, 10:39:51 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","blocked":false}
+[8/9/2026, 10:40:31 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":40,"failedAttempts":3,"riskLevel":"CRITICAL","blocked":true}
+[8/9/2026, 10:41:07 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","blocked":false}
+[8/9/2026, 10:42:18 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/9/2026, 10:49:06 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/9/2026, 10:51:28 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/9/2026, 10:51:32 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/9/2026, 10:51:39 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/9/2026, 10:52:21 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/13/2026, 7:57:27 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/13/2026, 8:00:48 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/13/2026, 8:39:37 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/13/2026, 8:40:15 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","blocked":false}
+[8/13/2026, 8:40:19 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","blocked":false}
+[8/13/2026, 8:40:21 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":40,"failedAttempts":3,"riskLevel":"CRITICAL","blocked":true}
+[8/13/2026, 8:40:22 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:22 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:22 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:23 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:23 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:34 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:38 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:40 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:40 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:40 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:40 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:40 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:40 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:42 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:44 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:49 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":40,"riskLevel":"CRITICAL"}
+[8/13/2026, 8:40:51 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW"}
+[8/13/2026, 9:00:51 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/13/2026, 9:01:49 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/13/2026, 9:01:51 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"RATE_LIMIT","blocked":false}
+[8/13/2026, 9:01:52 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK","blocked":false}
+[8/13/2026, 9:01:52 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":20,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK","blocked":false}
+[8/13/2026, 9:01:53 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/13/2026, 9:01:54 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/13/2026, 9:01:56 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/13/2026, 9:01:57 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/13/2026, 9:08:04 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/13/2026, 9:18:20 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/13/2026, 9:34:33 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/13/2026, 9:36:44 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"RATE_LIMIT","blocked":false}
+[8/13/2026, 9:36:45 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/13/2026, 9:36:49 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":20,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/13/2026, 9:36:50 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/13/2026, 9:36:50 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/13/2026, 9:38:47 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/13/2026, 9:39:05 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"RATE_LIMIT","blocked":false}
+[8/13/2026, 9:39:54 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/13/2026, 9:43:11 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":20,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/13/2026, 9:45:46 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/13/2026, 9:45:54 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/13/2026, 9:45:56 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"RATE_LIMIT","blocked":false}
+[8/13/2026, 9:45:58 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/13/2026, 11:52:43 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/14/2026, 6:38:36 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/14/2026, 6:38:42 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"RATE_LIMIT","blocked":false}
+[8/14/2026, 6:38:44 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/14/2026, 8:12:34 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/14/2026, 8:12:37 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:39 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:39 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:41 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":5,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:42 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":6,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:42 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":7,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:43 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":8,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:43 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":9,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:44 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":10,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:44 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":11,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:44 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":12,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:44 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":13,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:45 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":14,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:51 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":15,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:51 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":16,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":17,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":18,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":19,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":20,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":21,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":22,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":23,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:12:52 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":24,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:07 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/14/2026, 8:15:08 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:10 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:11 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":20,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:13 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":5,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:14 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":6,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:15 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":7,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:16 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":8,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:16 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":9,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:16 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":10,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:15:16 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":11,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:42 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":12,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:46 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":13,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:48 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":14,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:48 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":15,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:49 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":16,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:49 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":17,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:49 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":18,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:49 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":19,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:50 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":20,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:50 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":21,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:51 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":22,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:20:57 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/14/2026, 8:32:49 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/14/2026, 8:32:59 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/14/2026, 8:33:00 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:07 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:08 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":20,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:11 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":5,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:12 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":6,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:12 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":7,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:13 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":8,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:14 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":9,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:14 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":10,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:14 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":11,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:15 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":12,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:15 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":13,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:16 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":14,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:38 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":0,"failedAttempts":14,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/14/2026, 8:33:41 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":15,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:33:51 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":0,"failedAttempts":15,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/14/2026, 8:33:55 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":16,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:34:08 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/14/2026, 8:34:17 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/14/2026, 8:34:25 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:35:41 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/14/2026, 8:35:47 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:36:13 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE FAILED","trustScore":40,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:36:28 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE FAILED","trustScore":40,"failedAttempts":5,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:36:47 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":5,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/14/2026, 8:36:55 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":6,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:36:57 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":7,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:36:59 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":0,"failedAttempts":8,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:37:06 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/14/2026, 8:44:01 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/14/2026, 8:44:05 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:44:50 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/14/2026, 8:44:58 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:45:56 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE FAILED","trustScore":40,"failedAttempts":4,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:46:16 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE FAILED","trustScore":40,"failedAttempts":5,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/14/2026, 8:46:21 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":5,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/14/2026, 8:46:28 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/14/2026, 8:46:37 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 4:44:11 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 4:44:22 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 4:44:23 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 4:44:36 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE FAILED","trustScore":60,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 4:44:51 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 4:45:18 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:21 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:22 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:23 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:24 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:24 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:25 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:25 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:25 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:26 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:26 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:30 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:32 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:33 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:45:33 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:51:23 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 4:51:25 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 4:51:41 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 4:51:45 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 4:52:04 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 4:52:06 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:58:11 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 4:58:12 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 4:58:28 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 4:58:31 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 4:58:55 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 4:58:57 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:58:59 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:58:59 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:58:59 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 4:59:00 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 5:25:18 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 5:25:37 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 5:25:38 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 5:25:54 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE FAILED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 5:26:06 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 5:26:09 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 5:26:42 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 5:26:44 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 5:32:31 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 5:32:39 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 5:32:43 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 5:32:50 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 5:32:56 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 5:33:11 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 5:33:14 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 5:33:49 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 5:34:53 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":6,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 5:39:01 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"SECURITY_PUZZLE","blocked":false}
+[8/15/2026, 5:46:57 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 5:47:07 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"SECURITY_PUZZLE","blocked":false}
+[8/15/2026, 6:18:33 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 6:18:42 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"SECURITY_PUZZLE","blocked":false}
+[8/15/2026, 6:23:32 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 6:23:49 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"SECURITY_PUZZLE","blocked":false}
+[8/15/2026, 6:33:20 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 6:33:26 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"SECURITY_PUZZLE","blocked":false}
+[8/15/2026, 6:43:10 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"SECURITY_PUZZLE","blocked":false}
+[8/15/2026, 6:56:37 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 6:56:43 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":80,"failedAttempts":1,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 6:57:07 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":80,"failedAttempts":1,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 6:57:10 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 6:57:18 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 6:57:20 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/15/2026, 7:08:25 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 7:08:27 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 7:08:38 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 7:08:43 AM] {"email":"admin@test.com","ip":"::1","status":"PROOF OF WORK REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"PROOF_OF_WORK"}
+[8/15/2026, 7:09:00 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:18:08 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 7:18:10 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 7:18:16 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE FAILED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 7:18:40 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 7:18:43 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:18:57 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:19:08 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:19:20 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:36:54 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 7:37:00 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 7:37:01 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 7:37:09 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 7:37:12 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 7:37:29 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 7:37:31 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:38:04 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:40:08 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 7:51:45 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 7:51:47 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 7:51:48 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 7:51:49 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 7:59:07 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 8:37:51 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 8:57:35 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 8:57:54 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 8:57:55 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 8:57:56 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 8:57:57 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 8:58:15 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 8:58:19 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 8:58:19 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 8:58:19 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 8:58:20 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 8:58:20 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:09:24 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:09:35 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:10:32 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 9:11:11 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 9:11:12 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 9:11:13 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 9:11:14 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:24 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:25 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:26 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:26 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:26 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:26 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:27 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:37 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:11:49 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:27:12 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 9:27:18 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 9:27:26 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 9:27:32 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 9:27:32 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 9:27:41 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 9:27:45 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 9:27:50 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 9:27:53 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 9:28:33 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 9:28:38 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 10:19:14 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 10:19:34 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 10:19:36 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 10:19:37 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 10:19:38 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 10:37:01 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 10:37:22 AM] {"email":"admin@test.com","ip":"::1","status":"BLOCKED LOGIN ATTEMPT","trustScore":0,"failedAttempts":5,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 10:39:06 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 10:39:11 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 10:39:13 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 10:39:37 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":60,"failedAttempts":2,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 10:39:40 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 10:39:48 AM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE PASSED","trustScore":40,"failedAttempts":3,"riskLevel":"MEDIUM","securityAction":"ALLOW_RETRY"}
+[8/15/2026, 10:39:51 AM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
+[8/15/2026, 10:40:29 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 10:48:06 AM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 10:48:10 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 10:48:21 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 10:54:45 AM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 12:45:06 PM] {"email":"admin@test.com","ip":"::1","status":"SUCCESSFUL LOGIN","trustScore":100,"riskLevel":"LOW","securityAction":"ALLOW"}
+[8/15/2026, 12:45:15 PM] {"email":"admin@test.com","ip":"::1","status":"FAILED LOGIN","trustScore":80,"failedAttempts":1,"riskLevel":"LOW","securityAction":"ALLOW","blocked":false}
+[8/15/2026, 12:45:16 PM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":60,"failedAttempts":2,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 12:45:17 PM] {"email":"admin@test.com","ip":"::1","status":"SECURITY PUZZLE REQUIRED","trustScore":40,"failedAttempts":3,"riskLevel":"HIGH","securityAction":"SECURITY_PUZZLE"}
+[8/15/2026, 12:45:18 PM] {"email":"admin@test.com","ip":"::1","status":"ACCOUNT TEMPORARILY BLOCKED","trustScore":0,"failedAttempts":4,"riskLevel":"CRITICAL","securityAction":"TEMPORARY_BLOCK","blocked":true}
